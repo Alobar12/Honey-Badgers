@@ -11,28 +11,28 @@
 ## Project Info
 
  - Components
-   Header
-   BasketItem
-   Card
+       Header
+       BasketItem
+       Card
 
    - Pages
-   Cart
-   Favorites
-   Home
-   Login
-   ProductDetail
+       Cart
+       Favorites
+       Home
+       Login
+       ProductDetail
 
    - Fonts
-   Quicksand-Bold
-   Quicksand-Medium
-   Quicksand-Regular
-   Quicksand-SemiBold
+       Quicksand-Bold
+       Quicksand-Medium
+       Quicksand-Regular
+       Quicksand-SemiBold
 
    - State Management
-   Redux Toolkit
+       Redux Toolkit
 
    - Router
-   react-navigation
+       react-navigation
 
 ## Notes
    - To view the detail page, you need to click on the images.
