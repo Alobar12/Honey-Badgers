@@ -36,5 +36,5 @@
 
 ## Notes
    - To view the detail page, you need to click on the images.
-- The homepage is undergoing a page refresh.
+   - The homepage is undergoing a page refresh.
    - For user login on the login page username:kullanici password:sifre
