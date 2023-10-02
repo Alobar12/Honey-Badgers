@@ -10,28 +10,28 @@
    
 ## Project Info
 
- - Components
+ - Components:
        Header
        BasketItem
        Card
 
-   - Pages
+   - Pages:
        Cart
        Favorites
        Home
        Login
        ProductDetail
 
-   - Fonts
+   - Fonts:
        Quicksand-Bold
        Quicksand-Medium
        Quicksand-Regular
        Quicksand-SemiBold
 
-   - State Management
+   - State Management:
        Redux Toolkit
 
-   - Router
+   - Router:
        react-navigation
 
 ## Notes
